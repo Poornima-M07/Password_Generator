@@ -14,10 +14,10 @@ The script utilizes a generator expression to pull random characters from a comb
 2.  **Numbers:** `0123456789`
 3.  **Symbols:** `!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~`
 
-## 📋 Prerequisites
+## Prerequisites
 * Python 3.x installed on your machine.
 
-## 💻 Usage
+## Usage
 1.  **Clone or download** the script file (e.g., `generator.py`).
 2.  Open your terminal or command prompt.
 3.  Run the script using the following command:
@@ -34,6 +34,6 @@ your generated password:
 4&vP#zQ9!kL[
 ```
 
-## ⚖️ Security Note
+## Security Note
 This script uses Python's `random` module, which is suitable for general use. For high-security applications (like banking or encryption keys), it is recommended to use the `secrets` module, which is cryptographically secure.
 
